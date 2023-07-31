@@ -1,0 +1,9 @@
+Package: yahtcc
+Version: 1.0-2
+Section: games
+Priority: optional
+Architecture: phoenix
+Requires: libsystem
+Maintainer: JackMacWindows <jackmacwindowslinux@gmail.com>
+Description: Yahtzee game for Phoenix
+ Yahtzee game for Phoenix
